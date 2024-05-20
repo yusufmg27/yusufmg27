@@ -1,7 +1,7 @@
 # Hi there, I'm Yusuf! 👋
 
 ## 🚀 About Me
-- 👨‍💻 I'm a junior software engineer
+- 👨‍💻 I'm a software engineer
 - 🌱 I’m currently learning new technologies
 - 💼 Open for collaboration on interesting projects
 
